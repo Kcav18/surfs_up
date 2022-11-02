@@ -11,7 +11,17 @@ This analysis consisted of two deliverables:
 ## Results
 *The code used to determine the summary statistics for both June and December are shown below.*
 
-![Summary stats for June](
+![Summary stats for June](https://github.com/Kcav18/surfs_up/blob/main/june_temps.png)
 
-![Summary status for December](
+![Summary status for December](https://github.com/Kcav18/surfs_up/blob/main/dec_temps.png)
+
+## Summary
+For this part of the Challenge, write a report that describes the key differences in weather between June and December and two recommendations for further analysis.
+
+Overview of the analysis: Explain the purpose of this analysis.
+
+Results: Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
+
+Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
+
 
