@@ -30,5 +30,6 @@ Some additional queries that could be used to gather even more weather data for 
 1. query 1
 2. query 2
 
-SURFS UP!!!!
+# SURFS UP!!!!
+
 ![Surfer Ice Cream](https://github.com/Kcav18/surfs_up/blob/main/surfer_ice_cream.png)
