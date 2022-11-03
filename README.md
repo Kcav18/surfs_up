@@ -11,9 +11,9 @@ This analysis consisted of two technical deliverables:
 
 ## Results
 
-- Main point 1
-- Main point 2
-- Main point 3
+- The average temperature for the month of June is approximately 75 degrees. The average temperature for the month of December is 71 degrees.
+- The minimum temperature for the month of June is aproximately 64 degrees. The minimum temperature for the month of December is 56 degrees.
+- The maximimum temperature for the month of June is 85 degrees. The maximum temperature for the month of December is 83 degrees.
 
 *The code used to determine the summary statistics for both June and December are shown below.*
 
@@ -21,15 +21,14 @@ This analysis consisted of two technical deliverables:
 
 ![Summary status for December](https://github.com/Kcav18/surfs_up/blob/main/dec_temps.png)
 
-
-
 ## Summary
-For this part of the Challenge, write a report that describes the key differences in weather between June and December and two recommendations for further analysis.
 
-Overview of the analysis: Explain the purpose of this analysis.
+This analysis indicates that opening a surf and ice cream shop in Oahu is absolutely sustainable year-round. The summary statistics proves that temperatures in June and December do not drastically differ. The largest variation is the minimum temperature but even then, some people still like ice cream during that time - I know my kids sure do! I believe that W. Avy can invest in this business with pure confidence. 
 
-Results: Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
+Some additional queries that could be used to gather even more weather data for June and December are as follows:
 
-Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
+1. query 1
+2. query 2
 
-
+SURFS UP!!!!
+![Surfer Ice Cream](https://github.com/Kcav18/surfs_up/blob/main/surfer_ice_cream.png)
