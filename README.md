@@ -27,8 +27,9 @@ This analysis indicates that opening a surf and ice cream shop in Oahu is absolu
 
 Some additional queries that could be used to gather even more weather data for June and December are as follows:
 
-1. query 1
-2. query 2
+1. Find the amount of precipation in both June and December to determine if one of those months tends to see a significant amount of rainfall. 
+2. Gathering and analyzing onshore and offshore wind data would be very helpful for this business as well. Surfing is usually best when it is as wind-free onshore as possible to provide a more "glassy condition" for the surfer. According to [Malibu Makos](https://www.malibumakos.com/surfing-lessons-101-know-the-waves/#:~:text=Onshore%20winds%20result%20in%20bad,surfing%20is%20an%20offshore%20wind.), the best type of wind for surfing is an offshore wind. Analyzing the historical wind data in Oahu could definitely prove to be very useful before finalizing this shop.
+
 
 # SURFS UP!!!!
 
